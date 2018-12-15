@@ -6,9 +6,9 @@ Estoy diseñando una fuente dual que contenga las siguietes caracteristicas:
 2. voltaje regulado
 3. voltaje dual
 4. voltaje fijo de 5v y 3.3v
-5. potenciometro de fine y potenciometro de regulacion de voltaje
+5. potenciometro de regulacion voltaje fine y potenciometro de regulacion de voltaje corsair
 6. potenciometro para regular la corriente
-7. proteccion contra corto circuito
+7. proteccion contra corto circuito (con led amarillo indicador)
 
 
 
