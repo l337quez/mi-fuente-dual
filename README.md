@@ -17,5 +17,6 @@ Estoy diseñando una fuente dual que contenga las siguietes caracteristicas:
 1. Transformadores de microondas
 2. cable de carro
 3. Puente de diodos KBPC3504 http://www.sycelectronica.com.ar/semiconductores/KBPC3504-10.pdf
-4. (2) Reguladores LM317
-5.
+4. (2) Reguladores LM317 http://www.ti.com/lit/ds/slvs044x/slvs044x.pdf
+5. LED color Amarillo
+6. Interruptor con luz neon incluida
